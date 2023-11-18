@@ -1,5 +1,5 @@
 <h1 align="center">
-             🟡FlipAnalyse🔵
+             🟡Trendify🔵
 </h1>
 
 ![image](https://user-images.githubusercontent.com/78029145/181165548-0bdca110-6bfd-48b4-bfed-66cf2c3b8361.png)
